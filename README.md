@@ -1,5 +1,5 @@
 # Hi, i'm Pedro Lucas! :v:
-![GitHub watchers](https://img.shields.io/github/watchers/pedrolgsoares/pedrolgsoares?style=social)
+
 ### About me:
 - Front-End Developer :computer:
 - UI Designer :space_invader:
