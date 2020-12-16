@@ -1,4 +1,5 @@
 # Hi, i'm Pedro Lucas! :v:
+![Profile views](https://gpvc.arturio.dev/pedrolgsoares)
 
 ### About me:
 - Front-End Developer :computer:
