@@ -1,5 +1,4 @@
 # Hi, i'm Pedro Lucas! :v:
-![Profile views](https://gpvc.arturio.dev/pedrolgsoares)
 
 ### About me:
 - Front-End Developer :computer:
@@ -29,7 +28,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### Statistics:
 ![Pedrolgsoares Status](https://github-readme-stats.vercel.app/api?username=pedrolgsoares&show_icons=true&theme=radical)
-
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolgsoares&layout=compact&theme=radical)
+
+![Profile views](https://gpvc.arturio.dev/pedrolgsoares)
