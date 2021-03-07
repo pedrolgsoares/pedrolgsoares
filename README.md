@@ -2,8 +2,8 @@
 
 ### About me:
 - Front-End Developer :computer:
-- UI Designer :space_invader:
 - Mobile Developer :iphone:
+- UI Designer :space_invader:
 
 ### Contact me:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrodevmob@gmail.com)](mailto:pedrodevmob@gmail.com)
