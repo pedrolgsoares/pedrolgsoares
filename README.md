@@ -1,5 +1,14 @@
-<h1 align="center"> <i>Olá, tudo bem com você? Sou Pedro Lucas</i> :v:</h1>
-<p><i>Sou desenvolvedor Front-End, recentemente decidi entrar no mundo do Back-End para aprimorar meus conhecimentos e aceitar novos desafios e quem sabe uma nova jornada em meu caminho como desenvolvedor</i></p>
+<h1 align="center">
+  
+  <i>Olá, tudo bem com você? Sou Pedro Lucas</i>
+
+</h1>
+  
+<p>
+  
+  <i>Sou desenvolvedor Front-End, recentemente decidi entrar no mundo do Back-End para aprimorar meus conhecimentos e aceitar novos desafios e quem sabe uma nova jornada   em meu caminho como desenvolvedor</i>
+  
+</p>
 
 ### Tópicos que estou estudando durante meu aprendizado: 
 - Front-End: HTML5,CSS3, JS, Bootstrap e React :computer:
