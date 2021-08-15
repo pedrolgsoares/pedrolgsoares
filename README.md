@@ -13,7 +13,7 @@
 ### Tópicos que estou estudando durante meu aprendizado: 
 - Front-End: HTML5,CSS3, JS, Bootstrap e React :computer:
 - Back-End: Java e Spring Boot :computer:
-- Desenvolvimento Mobile :iphone:
+- Desenvolvimento Mobile: Java :iphone:
 - UI/UX Design :space_invader:
 
 ### Fale comigo:
