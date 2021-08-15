@@ -6,7 +6,7 @@
   
 <p>
   
-  <i>Sou desenvolvedor Front-End, recentemente decidi entrar no mundo do Back-End para aprimorar meus conhecimentos e aceitar novos desafios e quem sabe uma nova jornada   em meu caminho como desenvolvedor</i>
+  <i>Sou desenvolvedor Front-End, recentemente decidi entrar no mundo do Back-End para aprimorar meus conhecimentos e aceitar novos desafios e quem sabe uma nova jornada   em meu caminho como desenvolvedor.</i>
   
 </p>
 
