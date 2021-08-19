@@ -10,11 +10,13 @@
   
 </p>
 
-### Tópicos que estou estudando durante meu aprendizado: 
-- Front-End: HTML5,CSS3, JS, Bootstrap e React :computer:
+### Conhecimentos atuais: 
+- Front-End: HTML5,CSS3, JS, Bootstrap:computer:
+- UI/UX Design :space_invader:
+### Tópicos que estou estudando durante meu aprendizado:
+- React :computer:
 - Back-End: Java e Spring Boot :computer:
 - Desenvolvimento Mobile: Java :iphone:
-- UI/UX Design :space_invader:
 
 ### Fale comigo:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrodevmob@gmail.com)](mailto:pedrodevmob@gmail.com)
