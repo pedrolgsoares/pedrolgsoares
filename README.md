@@ -9,8 +9,8 @@
   <i>
      Entrei para o mundo do Front-end em meados de 2020, com a minha primeira tentativa de recriar a tela de login do Facebook. 
      Me senti maravilhado, embora fosse simples  foi algo que me deixou mais entusiasmado com a área, desde então aos poucos venho construindo minha trilha para me tornar um ótimo desenvolvedor.
-     Durante meus estudos consegui aprender as tecnologias: Html5, Css3 e Javascript. Alguns frameworks também como: Reactjs e Bootstrap.
-     Agora busco o caminho do back-end e estou utilizando como stack escolhida a linguagem Java e para desenvolvimento de Rest API seu framework Spring Boot.
+     Durante meus estudos consegui aprender as tecnologias: Html5, Css3 e Javascript e alguns frameworks também como: Reactjs e Bootstrap.
+     Agora busco o caminho do back-end e estou utilizando como stack escolhida a linguagem Java e para desenvolvimento de Rest API e o seu framework Spring Boot.
   </i>
   
 </p>
