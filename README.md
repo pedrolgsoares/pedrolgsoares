@@ -6,15 +6,19 @@
   
 <p>
   
-  <i>Sou desenvolvedor Front-End, recentemente decidi entrar no mundo do Back-End para aprimorar meus conhecimentos e aceitar novos desafios e quem sabe uma nova jornada   em meu caminho como desenvolvedor.</i>
+  <i>
+     Entrei para o mundo do Front-end em meados de 2020, com a minha primeira tentativa de recriar a tela de login do Facebook. 
+     Me senti maravilhado, embora fosse simples  foi algo que me deixou mais entusiasmado com a área, desde então aos poucos venho construindo minha trilha para me tornar um ótimo desenvolvedor.
+     Durante meus estudos consegui aprender as tecnologias: Html5, Css3 e Javascript. Alguns frameworks também como: Reactjs e Bootstrap.
+     Agora busco o caminho do back-end e estou utilizando como stack escolhida a linguagem Java e para desenvolvimento de Rest API seu framework Spring Boot.
+  </i>
   
 </p>
 
 ### Conhecimentos atuais: 
-- Front-End: HTML5,CSS3, JS, Bootstrap:computer:
+- Front-End: HTML5,CSS3, JS, Bootstrap e Reactjs:computer:
 - UI/UX Design :space_invader:
 ### Tópicos que estou estudando durante meu aprendizado:
-- React :computer:
 - Back-End: Java e Spring Boot :computer:
 - Desenvolvimento Mobile: Java :iphone:
 
