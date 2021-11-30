@@ -3,24 +3,6 @@
   <i>Olá, tudo bem com você? Sou Pedro Lucas</i>
 
 </h1>
-  
-<p>
-  
-  <i>
-     Entrei para o mundo do Front-end em meados de 2020, com a minha primeira tentativa de recriar a tela de login do Facebook. 
-     Me senti maravilhado, embora fosse simples  foi algo que me deixou mais entusiasmado com a área, desde então aos poucos venho construindo minha trilha para me tornar um ótimo desenvolvedor. </br>
-     Durante meus estudos consegui aprender as tecnologias: Html5, Css3 e Javascript e alguns frameworks também como: Reactjs e Bootstrap. </br>
-     Agora busco o caminho do back-end e estou utilizando como stack escolhida a linguagem Java e para desenvolvimento de Rest API o framework Spring Boot.
-  </i>
-  
-</p>
-
-### Conhecimentos atuais: 
-- Front-End: HTML5,CSS3, JS, Bootstrap e Reactjs:computer:
-- UI/UX Design :space_invader:
-### Tópicos que estou estudando durante meu aprendizado:
-- Back-End: Java e Spring Boot :computer:
-- Desenvolvimento Mobile: Java :iphone:
 
 ### Fale comigo:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:pedrodevmob@gmail.com)](mailto:pedrodevmob@gmail.com)
