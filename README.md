@@ -32,5 +32,3 @@ Desenvolvimento Mobile
 ![Pedrolgsoares Status](https://github-readme-stats.vercel.app/api?username=pedrolgsoares&show_icons=true&theme=radical)
 
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolgsoares&layout=compact&theme=radical)
-
-![Profile views](https://gpvc.arturio.dev/pedrolgsoares)
