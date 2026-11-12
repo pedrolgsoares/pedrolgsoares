@@ -1,103 +1,187 @@
-<!-- Banner -->
+ 
+<!-- ====================================================== -->
+<!--                  HEADER / HERO                         -->
+<!-- ====================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C9ED5,100:02569B&height=220&section=header&text=Pedro%20Lucas&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20Protheus%20%C2%B7%20Mobile%20%C2%B7%20APIs&descSize=20&descAlignY=58" alt="Pedro Lucas - Desenvolvedor Full Stack" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:0C9ED5&height=230&section=header&text=Pedro%20Lucas&fontSize=66&fontColor=ffffff&fontAlignY=37&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn"
+    width="100%"
+    alt="Pedro Lucas - Software Engineer"
+  />
 </p>
 
-<!-- Texto digitando -->
+<h3 align="center">
+  Construindo soluções. Integrando sistemas. Transformando ideias em software.
+</h3>
+
 <p align="center">
   <a href="https://pedrolgsoares.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=0C9ED5&center=true&vCenter=true&width=640&lines=Integro+Protheus+a+apps+e+sistemas+web;ADVPL+%7C+Flutter+%7C+React+%7C+FastAPI;Dispon%C3%ADvel+para+novos+projetos" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3500&pause=1000&color=0C9ED5&center=true&vCenter=true&width=650&lines=Protheus+%7C+ADVPL+%7C+APIs+REST;Flutter+%7C+React+%7C+React+Native;Java+%7C+Spring+Boot+%7C+Python;Arquitetura+de+Software+%7C+Docker+%7C+Integra%C3%A7%C3%B5es" alt="Especialidades" />
   </a>
 </p>
 
-<!-- Badges de Contato e Portfólio -->
 <p align="center">
-  <a href="https://pedrolgsoares.netlify.app/"><img src="https://img.shields.io/badge/Ver_Portfólio-0C9ED5?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"></a>
-  <a href="mailto:pedrodevmob@gmail.com?subject=Orçamento"><img src="https://img.shields.io/badge/Solicitar_Orçamento-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-  <a href="https://wa.me/5583987067623?text=Olá!%20Vim%20pelo%20seu%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://www.linkedin.com/in/pedrolgsoares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://pedrolgsoares.netlify.app/">
+    <img src="https://img.shields.io/badge/PORTFÓLIO-0C9ED5?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedrolgsoares">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:pedrodevmob@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5583987067623">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 👋 Sobre mim
+<!-- ====================================================== -->
+<!--                     ABOUT ME                           -->
+<!-- ====================================================== -->
 
-Desenvolvo e integro ecossistemas complexos: **rotinas customizadas e APIs no Protheus (ADVPL)**, **aplicativos mobile de alta performance** com Flutter/React Native e **sistemas web robustos** com React e FastAPI. 
+## 👨‍💻 Sobre mim
 
-Foco em modularização, padrão reativo (MobX), arquitetura limpa, performance e automação com Docker.
+Sou **Desenvolvedor de Software**, com experiência no desenvolvimento de aplicações, integração de sistemas corporativos e construção de soluções digitais.
 
-> 🟢 **Disponível** para projetos freelance, consultoria e novas oportunidades como prestador de serviço.
-> 🤖 Entusiasta de Inteligência Artificial aplicada ao desenvolvimento de software para acelerar entregas e elevar a qualidade de código.
+Minha atuação conecta diferentes ecossistemas tecnológicos:
+
+- **ERP:** customizações, automações e integrações com TOTVS Protheus utilizando ADVPL.
+- **Mobile:** desenvolvimento de aplicações com Flutter e React Native.
+- **Backend:** APIs REST e microsserviços com Java, Spring Boot e Python/FastAPI.
+- **Frontend:** interfaces modernas com React e TypeScript.
+- **Infraestrutura:** conteinerização, ambientes de desenvolvimento e deploy utilizando Docker.
+
+Acredito que um bom software vai além de funcionar: precisa ser escalável, seguro, organizado e preparado para evoluir.
+
+> 🚀 **Disponível para novos projetos:** desenvolvimento de sistemas, consultoria técnica, integrações e projetos freelance.
 
 ---
 
-## 💼 O que eu faço
+## 🎯 Especialidades
 
-<table align="center" width="100%">
+<table width="100%">
   <tr>
-    <td width="50%">
-      📱 <b>Aplicativos Mobile</b><br>
-      Desenvolvimento nativo cruzado (Flutter / React Native) totalmente integrado ao seu ERP ou sistemas legados.
+    <td width="50%" valign="top">
+      <h3>🧩 ERP & Protheus</h3>
+      Desenvolvimento ADVPL, MVC, Pontos de Entrada, PO-UI, relatórios, Jobs e integrações com sistemas externos.
     </td>
-    <td width="50%">
-      🌐 <b>Web & Sistemas</b><br>
-      Aplicações web modernas com React, acopladas a back-ends escaláveis em FastAPI ou integradas direto no ERP.
+    <td width="50%" valign="top">
+      <h3>📱 Mobile Development</h3>
+      Aplicativos multiplataforma com Flutter e React Native, gerenciamento de estado e integração com APIs.
     </td>
   </tr>
   <tr>
-    <td>
-      🔌 <b>APIs & Integrações</b><br>
-      Construção de APIs REST seguras e eficientes (WsRestFul no Protheus, Python) conectando diferentes frentes de negócio.
+    <td width="50%" valign="top">
+      <h3>⚙️ Backend & APIs</h3>
+      Arquitetura de serviços, APIs REST, autenticação JWT, microsserviços e integração entre plataformas.
     </td>
-    <td>
-      🧩 <b>Especialista Protheus (ADVPL)</b><br>
-      Desenvolvimento de novas rotinas, pontos de entrada, customizações MVC, PO-UI, jobs automáticos e relatórios.
+    <td width="50%" valign="top">
+      <h3>🌐 Web Development</h3>
+      Aplicações modernas com React, TypeScript e interfaces integradas a backends escaláveis.
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Stack Tecnológica
+## 🛠️ Tech Stack
 
-<div align="center">
+<h3 align="left">💻 Linguagens & Backend</h3>
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **ERP Protheus** | ![ADVPL](https://img.shields.io/badge/ADVPL-0C9ED5?style=for-the-badge) ![MVC](https://img.shields.io/badge/MVC-0C9ED5?style=for-the-badge) ![PO UI](https://img.shields.io/badge/PO_UI-0C9ED5?style=for-the-badge&logo=angular&logoColor=white) ![Pontos de Entrada](https://img.shields.io/badge/Pontos_de_Entrada-0C9ED5?style=for-the-badge) ![WsRestFul](https://img.shields.io/badge/WsRestFul-0C9ED5?style=for-the-badge) ![Jobs](https://img.shields.io/badge/Jobs-0C9ED5?style=for-the-badge) |
-| **Back-end & APIs** | <img src="https://skillicons.dev/icons?i=py,fastapi,java,spring" alt="Python, FastAPI, Java, Spring" height="36"> ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
-| **Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,react" alt="Flutter, Dart, React Native" height="36"> ![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white) |
-| **Web** | <img src="https://skillicons.dev/icons?i=react,ts,js,html,css" alt="React, TypeScript, JavaScript" height="36"> |
-| **Bancos de Dados** | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="36"> ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) |
-| **DevOps & Ferramentas** | <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,idea,androidstudio,figma" alt="Docker, Git, VS Code" height="36"> |
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts&theme=dark" />
+</p>
 
-</div>
+<p align="left">
+  <img src="https://img.shields.io/badge/ADVPL-02569B?style=flat-square" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0C9ED5?style=flat-square" />
+</p>
+
+<h3 align="left">📱 Mobile & Frontend</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css&theme=dark" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" />
+</p>
+
+<h3 align="left">🗄️ Banco de Dados</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+<h3 align="left">🚀 DevOps & Ferramentas</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,idea,androidstudio,figma&theme=dark" />
+</p>
 
 ---
 
-## 📈 Experiência
+## 💼 Experiência Profissional
 
-**Programador de Sistemas Pleno · Guaraves** — 4+ anos em produção
-- Desenvolvimento e sustentação de aplicativos mobile (Flutter/React Native) conectados ao Protheus.
-- Criação de APIs REST robustas (WsRestFul) para comunicação entre sistemas internos e web.
-- Atendimento direto às demandas de negócio: criação de rotinas, melhorias de performance e relatórios gerenciais avançados.
-- Orquestração e deploy de aplicações full-stack utilizando containers Docker.
+### Programador de Sistemas Pleno — Guaraves
 
-**🎓 Formação:** Especialização em Desenvolvimento Mobile · Estácio (2023 - 2024)
+<sub>Mais de 4 anos de experiência em ambiente de produção</sub>
+
+- Desenvolvimento e manutenção de aplicativos mobile utilizando Flutter e React Native.
+- Integração de aplicações com ERP TOTVS Protheus.
+- Construção e manutenção de APIs REST com WsRestFul.
+- Desenvolvimento de rotinas ADVPL, customizações e automações.
+- Criação de relatórios gerenciais e otimização de processos.
+- Implantação e gerenciamento de aplicações utilizando Docker.
+
+### 🎓 Formação Acadêmica
+
+**Especialização em Desenvolvimento Mobile**
+
+Estácio | 2023 – 2024
 
 ---
 
-## 📬 Vamos construir algo incrível?
+## 🤖 Tecnologia & Inovação
 
-<p align="center">Tem um projeto em mente, precisa de integração Protheus ou quer escalar seu sistema? Entre em contato:</p>
+Tenho interesse constante em novas tecnologias e na aplicação de Inteligência Artificial ao desenvolvimento de software.
+
+Atualmente, valorizo especialmente:
+
+- IA aplicada à produtividade e engenharia de software.
+- Arquiteturas escaláveis e modularizadas.
+- Integração de sistemas e automação de processos.
+- Boas práticas, segurança e qualidade de código.
+- Desenvolvimento de ecossistemas digitais completos.
+
+---
+
+## 📬 Vamos conversar?
+
+Tem um projeto em mente? Precisa integrar seu Protheus a um aplicativo, desenvolver uma API ou construir uma plataforma do zero?
+
+**Vamos transformar sua ideia em uma solução real.**
 
 <p align="center">
-  <a href="mailto:pedrodevmob@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://wa.me/5583987067623?text=Olá!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
-  <a href="https://www.linkedin.com/in/pedrolgsoares"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://pedrolgsoares.netlify.app/"><img src="https://img.shields.io/badge/Portfólio-0C9ED5?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio"></a>
+  <a href="mailto:pedrodevmob@gmail.com?subject=Vamos%20desenvolver%20um%20projeto">
+    <img src="https://img.shields.io/badge/FALE_COMIGO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/5583987067623?text=Olá!%20Vim%20pelo%20seu%20GitHub.">
+    <img src="https://img.shields.io/badge/INICIAR_CONVERSA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://pedrolgsoares.netlify.app/">
+    <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-0C9ED5?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0C9ED5,100:02569B&height=100&section=footer" alt="" />
+  <sub>Desenvolvido com dedicação, café e muitas linhas de código. ☕</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:0C9ED5&height=110&section=footer" width="100%" />
 </p>
