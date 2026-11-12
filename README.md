@@ -87,15 +87,6 @@ Foco em modularização, padrão reativo (MobX), arquitetura limpa, performance 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrolgsoares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Pedro" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrolgsoares&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas" width="48%" />
-</p>
-
----
-
 ## 📬 Vamos construir algo incrível?
 
 <p align="center">Tem um projeto em mente, precisa de integração Protheus ou quer escalar seu sistema? Entre em contato:</p>
