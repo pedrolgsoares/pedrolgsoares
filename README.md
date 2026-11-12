@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:0C9ED5&height=230&section=header&text=Pedro%20Lucas&fontSize=66&fontColor=ffffff&fontAlignY=37&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:0C9ED5&height=230&section=header&text=Pedro%20Lucas&fontSize=66&fontColor=ffffff&fontAlignY=37&desc=FULL%20STACK%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn"
     width="100%"
     alt="Pedro Lucas - Software Engineer"
   />
@@ -23,16 +23,16 @@
 
 <p align="center">
   <a href="https://pedrolgsoares.netlify.app/">
-    <img src="https://img.shields.io/badge/PORTFÓLIO-0C9ED5?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/PORTFÓLIO-0C9ED5?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/pedrolgsoares">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pedrodevmob@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/5583987067623">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
 
@@ -59,6 +59,10 @@ Acredito que um bom software vai além de funcionar: precisa ser escalável, seg
 > 🚀 **Disponível para novos projetos:** desenvolvimento de sistemas, consultoria técnica, integrações e projetos freelance.
 
 ---
+
+<!-- ====================================================== -->
+<!--                    SPECIALTIES                         -->
+<!-- ====================================================== -->
 
 ## 🎯 Especialidades
 
@@ -87,43 +91,78 @@ Acredito que um bom software vai além de funcionar: precisa ser escalável, seg
 
 ---
 
+<!-- ====================================================== -->
+<!--                    TECHNOLOGIES                        -->
+<!-- ====================================================== -->
+
 ## 🛠️ Tech Stack
 
 <h3 align="left">💻 Linguagens & Backend</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts&theme=dark" alt="Java, Spring, Python, FastAPI, JavaScript e TypeScript" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ADVPL-02569B?style=flat-square" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0C9ED5?style=flat-square" />
+  <img src="https://img.shields.io/badge/ADVPL-02569B?style=flat-square" alt="ADVPL" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/REST_API-0C9ED5?style=flat-square" alt="REST API" />
 </p>
 
 <h3 align="left">📱 Mobile & Frontend</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css&theme=dark" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css&theme=dark" alt="Flutter, Dart, React, HTML e CSS" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" alt="MobX" />
 </p>
 
 <h3 align="left">🗄️ Banco de Dados</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
 
 <h3 align="left">🚀 DevOps & Ferramentas</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,idea,androidstudio,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,idea,androidstudio,figma&theme=dark" alt="Docker, Git, GitHub, GitLab, VS Code, IntelliJ, Android Studio e Figma" />
 </p>
 
 ---
+
+<!-- ====================================================== -->
+<!--                  GITHUB ANALYTICS                      -->
+<!-- ====================================================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <a href="https://github.com/pedrolgsoares">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=pedrolgsoares&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&card_width=500"
+      width="500"
+      alt="Pedro Lucas GitHub Statistics"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/pedrolgsoares?tab=repositories">
+    <img
+      src="https://img.shields.io/badge/VER_MEUS_REPOSITÓRIOS-0C9ED5?style=for-the-badge&logo=github&logoColor=white"
+      alt="Ver repositórios"
+    />
+  </a>
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!--                  PROFESSIONAL EXPERIENCE               -->
+<!-- ====================================================== -->
 
 ## 💼 Experiência Profissional
 
@@ -146,6 +185,10 @@ Estácio | 2023 – 2024
 
 ---
 
+<!-- ====================================================== -->
+<!--                  TECHNOLOGY & INNOVATION               -->
+<!-- ====================================================== -->
+
 ## 🤖 Tecnologia & Inovação
 
 Tenho interesse constante em novas tecnologias e na aplicação de Inteligência Artificial ao desenvolvimento de software.
@@ -160,6 +203,10 @@ Atualmente, valorizo especialmente:
 
 ---
 
+<!-- ====================================================== -->
+<!--                       CONTACT                          -->
+<!-- ====================================================== -->
+
 ## 📬 Vamos conversar?
 
 Tem um projeto em mente? Precisa integrar seu Protheus a um aplicativo, desenvolver uma API ou construir uma plataforma do zero?
@@ -168,13 +215,13 @@ Tem um projeto em mente? Precisa integrar seu Protheus a um aplicativo, desenvol
 
 <p align="center">
   <a href="mailto:pedrodevmob@gmail.com?subject=Vamos%20desenvolver%20um%20projeto">
-    <img src="https://img.shields.io/badge/FALE_COMIGO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/FALE_COMIGO-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://wa.me/5583987067623?text=Olá!%20Vim%20pelo%20seu%20GitHub.">
-    <img src="https://img.shields.io/badge/INICIAR_CONVERSA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/INICIAR_CONVERSA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   <a href="https://pedrolgsoares.netlify.app/">
-    <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-0C9ED5?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/MEU_PORTFÓLIO-0C9ED5?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfólio" />
   </a>
 </p>
 
@@ -182,6 +229,14 @@ Tem um projeto em mente? Precisa integrar seu Protheus a um aplicativo, desenvol
   <sub>Desenvolvido com dedicação, café e muitas linhas de código. ☕</sub>
 </p>
 
+<!-- ====================================================== -->
+<!--                       FOOTER                           -->
+<!-- ====================================================== -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:0C9ED5&height=110&section=footer" width="100%" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:061A40,50:0353A4,100:0C9ED5&height=110&section=footer"
+    width="100%"
+    alt=""
+  />
 </p>
