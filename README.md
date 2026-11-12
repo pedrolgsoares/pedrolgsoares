@@ -120,7 +120,7 @@ Acredito que um bom software vai além de funcionar: precisa ser escalável, seg
 <h3 align="left">🗄️ Banco de Dados</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL e MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
 </p>
