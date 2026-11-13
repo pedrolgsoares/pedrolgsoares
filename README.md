@@ -97,39 +97,52 @@ Acredito que um bom software vai além de funcionar: precisa ser escalável, seg
 
 ## 🛠️ Tech Stack
 
-<h3 align="left">💻 Linguagens & Backend</h3>
+### 🧩 ERP Protheus
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,js,ts&theme=dark" alt="Java, Spring, Python, FastAPI, JavaScript e TypeScript" />
-</p>
+![ADVPL](https://img.shields.io/badge/ADVPL-0C9ED5?style=for-the-badge)
+![MVC](https://img.shields.io/badge/MVC-0C9ED5?style=for-the-badge)
+![Pontos de Entrada](https://img.shields.io/badge/Pontos_de_Entrada-0C9ED5?style=for-the-badge)
+![Jobs](https://img.shields.io/badge/Jobs-0C9ED5?style=for-the-badge)
+![WsRestFul](https://img.shields.io/badge/WsRestFul-0C9ED5?style=for-the-badge)
+![PO UI](https://img.shields.io/badge/PO_UI-0C9ED5?style=for-the-badge&logo=angular&logoColor=white)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/ADVPL-02569B?style=flat-square" alt="ADVPL" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/REST_API-0C9ED5?style=flat-square" alt="REST API" />
-</p>
+### ⚙️ Backend e APIs
 
-<h3 align="left">📱 Mobile & Frontend</h3>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-0C9ED5?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,html,css&theme=dark" alt="Flutter, Dart, React, HTML e CSS" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white" alt="MobX" />
-</p>
+### 📱 Mobile e Frontend
 
-<h3 align="left">🗄️ Banco de Dados</h3>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MobX](https://img.shields.io/badge/MobX-FF9955?style=for-the-badge&logo=mobx&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-</p>
+### 🗄️ Bancos de dados
 
-<h3 align="left">🚀 DevOps & Ferramentas</h3>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode,idea,androidstudio,figma&theme=dark" alt="Docker, Git, GitHub, GitLab, VS Code, IntelliJ, Android Studio e Figma" />
-</p>
+### 🚀 DevOps e ferramentas
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
